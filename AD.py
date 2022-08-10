@@ -6,7 +6,7 @@ import streamlit as st
 from HCAE import HCAE
 from simulate_data import simulate_data, simulate_labels
 import pandas as pd
-import nibabel as nib
+
 
 from sklearn.model_selection import learning_curve
 from sklearn.model_selection import ShuffleSplit
