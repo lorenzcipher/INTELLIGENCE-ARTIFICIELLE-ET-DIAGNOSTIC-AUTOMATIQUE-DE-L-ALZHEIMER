@@ -1,13 +1,10 @@
 # HCAE in Python (HyperConnectome AutoEncoder)
-HCAE (HyperConnectome AutoEncoder) for brain state identification, coded up by Alin Banka and Inis Buzi. Please contact alin.banka@gmail.com for further inquiries. Thanks. 
+HCAE (HyperConnectome AutoEncoder) for brain state identification
 
 ![HCAE pipeline](mainfigure.png)
 
 > **Multi-View Brain HyperConnectome AutoEncoder For Brain State Classification** <br/>
-> [Alin Banka](https://scholar.google.com/citations?user=2J9FdJkAAAAJ&hl=en)<sup>1,2</sup>, [Inis Buzi](https://www.researchgate.net/profile/Inis_Buzi)<sup>1, 2</sup>, [Islem Rekik](https://scholar.google.co.uk/citations?user=tb6CVoAAAAAJ&hl=en)<sup>1,2</sup><br/>
-> <sup>1</sup> BASIRA Lab, Faculty of Computer and Informatics, Istanbul Technical University, Istanbul, Turkey
-> <sup>2</sup> Istanbul Technical University, Istanbul, Turkey
->
+
 > **Abstract:** *Graph embedding is a powerful method to represent graph neurological data (e.g., brain connectomes) in a low dimensional space for brain connectivity mapping, prediction and classification. However, existing embedding algorithms have two major limitations. First, they primarily focus on preserving one-to-one topological relationships between nodes (i.e., regions of interest (ROIs) in a connectome), but they have mostly ignored many-to-many relationships (i.e., set to set), which can be captured using a hyper-connectome structure. Second, existing graph embedding techniques cannot be easily adapted to multi-view graph data with heterogeneous distributions. In this paper, while cross-pollinating adversarial deep learning with hypergraph theory, we aim to jointly learn deep latent embeddings of a population of multi-view brain graphs to eventually disentangle different brain dementia states such as Alzheimer’s disease (AD) versus mild cognitive impairment (MCI). First, we propose a new simple strategy to build a weighted hyper-connectome based on nearest neighbour algorithm to preserve the connectivities across pairs of ROIs. Second, for each brain view, we create a hyper-connectome. Next, we design a hyper-connectome autoencoder (HCAE) framework which operates directly on the multi-view hyper-connectomes based on hypergraph convolutional layers to better capture the many-to-many relationships between brain regions (i.e., graph nodes). For each subject, we further regularize the hypergraph autoencoding by adversarial regularization to align the distribution of the learned hyper-connectome embeddings with the original hyper-connectome distribution.  Our results show that HCAE achieves promising results in AD/MCI classification compared with deep graph-based autoencoding methods. Our HCAE code is available at http://github.com/basiralab/HCAE.*
 
 
@@ -66,6 +63,9 @@ https://github.com/lorenzcipher/INTELLIGENCE-ARTIFICIELLE-ET-DIAGNOSTIC-AUTOMATI
 # Acknowledgement
 
 I. Rekik is supported by the European Union’s Horizon 2020 research and innovation programme under the Marie Sklodowska-Curie Individual Fellowship grant agreement No 101003403 (http://basira-lab.com/normnets/).
+
+
+https://github.com/lorenzcipher/INTELLIGENCE-ARTIFICIELLE-ET-DIAGNOSTIC-AUTOMATIQUE-DE-L-ALZHEIMER/blob/78d360c7e9fd54c065b896384076d9931a6e3509/Project%20Support%20Document.pdf
 
 
 # License
