@@ -3,3 +3,4 @@ plotly-express
 matplotlib
 scikit-learn
 model-selection
+tensorflow
