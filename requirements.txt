@@ -1,6 +1,5 @@
 streamlit-option-menu
 plotly-express
 matplotlib
-time
 scikit-learn
 model-selection
