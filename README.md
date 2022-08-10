@@ -57,10 +57,11 @@ organization={Springer}
 }
 ```
 
-# HCAE on arXiv
+# HCAE documents
 
 https://arxiv.org/abs/2009.11553
-[a link] https://github.com/lorenzcipher/INTELLIGENCE-ARTIFICIELLE-ET-DIAGNOSTIC-AUTOMATIQUE-DE-L-ALZHEIMER/blob/78d360c7e9fd54c065b896384076d9931a6e3509/Project%20Support%20Document.pdf
+
+https://github.com/lorenzcipher/INTELLIGENCE-ARTIFICIELLE-ET-DIAGNOSTIC-AUTOMATIQUE-DE-L-ALZHEIMER/blob/78d360c7e9fd54c065b896384076d9931a6e3509/Project%20Support%20Document.pdf
 
 # Acknowledgement
 
