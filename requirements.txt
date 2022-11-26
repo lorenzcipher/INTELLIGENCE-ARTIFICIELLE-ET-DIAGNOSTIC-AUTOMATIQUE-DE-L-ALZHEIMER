@@ -5,3 +5,4 @@ scikit-learn
 model-selection
 tensorflow
 nibabel
+streamlit
