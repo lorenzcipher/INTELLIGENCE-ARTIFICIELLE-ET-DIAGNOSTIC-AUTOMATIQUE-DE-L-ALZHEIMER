@@ -13,7 +13,7 @@ from sklearn.model_selection import ShuffleSplit
 from sklearn.naive_bayes import GaussianNB
 
 # Packages
-from streamlit import caching
+#from streamlit import caching
 import time
 import matplotlib.pyplot as plt
 
