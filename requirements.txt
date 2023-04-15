@@ -1,8 +1,5 @@
-streamlit-option-menu
-plotly-express
+pandas
+StringIO
+numpy
 matplotlib
-scikit-learn
-model-selection
-tensorflow
-nibabel
-streamlit
+sklearn
